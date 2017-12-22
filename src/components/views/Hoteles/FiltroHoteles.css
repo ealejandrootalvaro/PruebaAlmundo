@@ -1,0 +1,39 @@
+.hoteles-filtro-container {
+  background-color: white
+}
+
+.hoteles-filtro-container .header {
+  font-weight: bold
+}
+
+.hoteles-filtro-container .filtro {
+  padding: 10px 10px 10px 20px
+}
+
+.hoteles-filtro-container .nombre .col {
+  padding-left: 0px;
+  height: 30px;
+}
+
+.hoteles-filtro-container .nombre input {
+  height: 30px
+}
+
+.hoteles-filtro-container .nombre button {
+  height: 100%;
+  width: 100%;
+  color: white;
+}
+
+.hoteles-filtro-container > .filtro {
+  border-bottom: 5px solid #ECECEC
+}
+
+.hoteles-filtro-container > .filtro > header {
+  color: #7BC1DB;
+  margin-bottom: 10px
+}
+
+.hoteles-filtro-container .star-icon {
+  color: #F6EB36;
+}
